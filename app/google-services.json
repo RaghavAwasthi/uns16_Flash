@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "988442756912",
+    "firebase_url": "https://raghavfriendlychat.firebaseio.com",
+    "project_id": "raghavfriendlychat",
+    "storage_bucket": "raghavfriendlychat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988442756912:android:9dd99eb89b0017e8",
+        "android_client_info": {
+          "package_name": "com.community.jboss.leadmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988442756912-g73s7jh7r44q05mjr83slegqcjac63g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVkm6oNZ-J97_rwChbBrdqXqpxVsptiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988442756912-n0una89uc8qu6jp0so3gcskg0l17lajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988442756912:android:0f18d69fe55dfc78",
+        "android_client_info": {
+          "package_name": "com.community.jboss.visitingcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988442756912-tb4gtbu8b31ugdkce75sv1ep5nq5ouo0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.community.jboss.visitingcard",
+            "certificate_hash": "70f07aaba89e6eb4bfebedf638e7eff160f500dd"
+          }
+        },
+        {
+          "client_id": "988442756912-g73s7jh7r44q05mjr83slegqcjac63g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVkm6oNZ-J97_rwChbBrdqXqpxVsptiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988442756912-n0una89uc8qu6jp0so3gcskg0l17lajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988442756912:android:64e58dacc0483faa",
+        "android_client_info": {
+          "package_name": "com.google.firebase.udacity.friendlychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988442756912-dk38h505kbm6vj33hstaq91nl81p91lb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.firebase.udacity.friendlychat",
+            "certificate_hash": "70f07aaba89e6eb4bfebedf638e7eff160f500dd"
+          }
+        },
+        {
+          "client_id": "988442756912-g73s7jh7r44q05mjr83slegqcjac63g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVkm6oNZ-J97_rwChbBrdqXqpxVsptiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988442756912-n0una89uc8qu6jp0so3gcskg0l17lajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988442756912:android:2cb42bde0e9ef18a9eeaf5",
+        "android_client_info": {
+          "package_name": "com.unscript.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988442756912-g73s7jh7r44q05mjr83slegqcjac63g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiVkm6oNZ-J97_rwChbBrdqXqpxVsptiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988442756912-n0una89uc8qu6jp0so3gcskg0l17lajb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
