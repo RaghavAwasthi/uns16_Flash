@@ -1,6 +1,6 @@
 # ChatBot
 
-Chatbot for Fr. Conceicao Rodrigues College of Engineering 
+- Chatbot for Fr. Conceicao Rodrigues College of Engineering 
 
 - An ML model that can respond to the user's queries.
 
