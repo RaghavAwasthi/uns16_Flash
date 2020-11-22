@@ -16,5 +16,9 @@ Also, an admin panel is required to feed answers for the general FAQ’s. The ch
 
 website: http://frcrce.ac.in/
 
-# Tech Stack 
+## Getting Started
 
+ ## Tech Stack
+
+| Machine Learning | Android Native | Python | Tensorflow | Keras | scikit-learn | Firebase | Heroku | Java | 
+ | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
